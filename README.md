@@ -1,1 +1,4 @@
-#Go Nuts App
+# Go Nuts App
+## Using:
+* XAML
+* C#
